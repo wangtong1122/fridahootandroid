@@ -8,5 +8,6 @@ public class HookCla2 {
         return a+b;
     }
     public void showadd(){
+        Log.d("HookCla2","showadd"+this);
     }
 }
